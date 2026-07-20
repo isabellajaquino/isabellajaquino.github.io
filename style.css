@@ -59,8 +59,8 @@ body {
 }
 
 .avatar-photo {
-  width: 128px;
-  height: 128px;
+  width: 84px;
+  height: 84px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 20px;
